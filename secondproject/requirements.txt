@@ -47,7 +47,7 @@ paramiko==2.4.2
 parso==0.4.0
 pathspec==0.5.9
 pickleshare==0.7.5
-Pillow==6.0.0
+Pillow==6.2.0
 prometheus-client==0.6.0
 prompt-toolkit==2.0.9
 pyasn1==0.4.5
