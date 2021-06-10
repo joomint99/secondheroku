@@ -15,7 +15,7 @@ colorama==0.3.9
 cryptography==2.6.1
 decorator==4.4.0
 defusedxml==0.6.0
-Django==2.2
+Django==2.2.24
 docutils==0.14
 entrypoints==0.3
 fabric==2.4.0
